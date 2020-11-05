@@ -1,4 +1,7 @@
 # Chile multidimensional poverty visualization
+The app can be found here: https://enneite.shinyapps.io/viz_casen_chile/
+Here I present the code and the data used.
+
 ## Multidimensional poverty
 After 10 months in Chile, I interested myself to the multidimentional poverty which is an international indicator (adaptated afterward to each country) that measures poverty through the deficiencies in some dimensions that have the households.
 In Chile the dimensions are as follows and each one counts for 25% of final score:
