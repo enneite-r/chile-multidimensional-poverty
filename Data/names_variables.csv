@@ -1,0 +1,27 @@
+var,real_name,grp_var,n,change_cat
+hh_d_asis,Asistencia escolar,Educación,1,NA
+hh_d_rez,Rezago escolar,Educación,2,0
+hh_d_esc,Escolaridad,Educación,3,0
+hh_d_appart,Apoyo y participacion social,Redes y cohesión social,4,1
+hh_d_tsocial,Trato igualitario,Redes y cohesión social,5,0
+hh_d_seg,Seguridad,Redes y cohesión social,6,0
+hh_d_mal,Malnutricion ninos,Salud,7,1
+hh_d_prevs,Adscripcion sistema de salud,Salud,8,0
+hh_d_acc,Atencion,Salud,9,0
+hh_d_accesi,Accesibilidad,Salud,10,0
+hh_d_act,Ocupacion,Trabajo y seguridad social,11,1
+hh_d_cot,Seguridad social,Trabajo y seguridad social,12,0
+hh_d_jub,Jubilacion,Trabajo y seguridad social,13,0
+hh_d_habitab,Habitabilidad,Vivienda y entorno,14,1
+hh_d_hacina,Hacinamiento,Vivienda y entorno,15,0
+hh_d_estado,Estado vivienda,Vivienda y entorno,16,0
+hh_d_servbas,Servicios basicos,Vivienda y entorno,17,0
+hh_d_entorno,Entorno,Vivienda y entorno,18,0
+hh_d_medio,Medio ambiente,Vivienda y entorno,19,0
+region,Region,NA,20,NA
+comuna,Comuna,NA,21,NA
+expc,epxc,NA,22,NA
+ytotcorh,Ingreso total hogar,NA,23,NA
+pobreza,Pobreza,NA,24,NA
+pobreza_multi_4d,Situación de pobreza multidimensional (4 dimensiones),NA,25,NA
+pobreza_multi_5d,Situación de pobreza multidimensional (5 dimensiones),NA,26,NA
