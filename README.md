@@ -1,5 +1,5 @@
 # Chile multidimensional poverty visualization
-The app can be found here: https://enneite.shinyapps.io/viz_casen_chile/
+The app can be found here: https://enneite.shinyapps.io/viz_casen_chile/.
 Here I present the code and the data used.
 
 ## Multidimensional poverty
